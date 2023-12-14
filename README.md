@@ -1,1 +1,8 @@
 # CS-340
+•	How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
+To make the CRUD program the best I could I’ve added comments and spaced things out, so it is easy to read and understand what the program is doing. Unfortunately, Project 2 didn’t work for as attended for this class. I think I could use this crud python module in the future with some tweaking, to help with easy gain to create read update and delete. 
+•	How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
+I took what the client wanted out of their program. Working week by week I was able to include everything Grazioso Salvare was looking for within their database. I don’t think I approach this differently than any other project. Many techniques were used to make the database work as the client requested. 
+•	What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
+Computer scientist take a problem that a client is looking to recertify and make the program that they are looking to solve. 
+
